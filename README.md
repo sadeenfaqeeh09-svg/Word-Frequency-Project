@@ -16,7 +16,7 @@ Operating Systems project that finds the top 10 most frequent words using naive,
 ## 📁 Project Structure
 
 Word-Frequency-Project/
-├── Part1-Naive/
-├── Part2-Multiprocessing/
-├── Part3-Multithreading/
-└── README.md
+-Part1-Naive/
+-Part2-Multiprocessing/
+-Part3-Multithreading/
+-README.md
