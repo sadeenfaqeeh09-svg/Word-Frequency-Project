@@ -20,3 +20,11 @@ Word-Frequency-Project/
 - Part2-Multiprocessing/
 - Part3-Multithreading/
 - README.md
+
+
+
+## 🚀 Features
+- Compare naive vs parallel approaches
+- Measure execution time
+- Use multiprocessing and multithreading
+- Apply Amdahl’s Law for performance analysis
